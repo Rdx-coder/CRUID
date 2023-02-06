@@ -17,7 +17,7 @@ db.on('open',()=>{
 app.listen(port,function(err){
     if(err)
     {
-        console.log("port is not  running on server ",port);
+        console.log("port  not  running on server ",port);
 
     }
 
